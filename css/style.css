@@ -529,7 +529,7 @@ button {
 
 .image_main:hover {
     transform: scale(1.1);
-    background-color: #f75261;
+    background-color: #00FF00;
     border: 0px;
 }
 
