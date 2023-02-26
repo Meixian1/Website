@@ -361,7 +361,7 @@ button {
 #my_slider .carousel-control-next {
     width: 65px;
     height: 65px;
-    background: #ffffff;
+    background:  #ffb3ff;
     opacity: 1;
     font-size: 24px;
     color: #515151;
@@ -373,8 +373,8 @@ button {
 #my_slider .carousel-control-next:hover,
 #my_slider .carousel-control-prev:focus,
 #my_slider .carousel-control-next:focus {
-    background: #ffffff;
-    color: #fbc11d;
+    background: #ffb3ff;
+    color: #ffb3ff;
 }
 
 
